@@ -5,7 +5,7 @@
 	<head>
 		<meta charset="utf-8">
 		<title>Home</title>
-		<link><!-- location for CSS file -->
+		<link rel="stylesheet" href ="css/styles.css">
 	</head>
 
 	<body>
@@ -20,7 +20,7 @@
 			</ul>
 
 		</header>
-		
+
 		<nav>
 
 			<ul>
@@ -31,7 +31,7 @@
 			</ul>
 
 		</nav>
-		
+
 		<main>
 
 			<h2>Topics of Similarity</h2>
