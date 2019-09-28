@@ -30,6 +30,14 @@
 
 		</nav>
 
+
+		<section>
+			<h2>Early Life</h2>
+		</section>
+
+
+
+
 		<main>
 
 			<!--  <a href="alex.php">
@@ -37,10 +45,6 @@
 			</a> -->
 
 
-			<h2>Earlier Life</h2>
-
-
-			<article class= "article">
 				<div class="box a">
 						<img src = "images/alex.jpg", alt="Alex" class="image">
 									<a href="/alex.jpg">
@@ -89,9 +93,6 @@
 					<h3>Maria Mancheno</h3>
 						<p>Maria Mancheno is from Quito, Equador, and is 21 years of age. She was born and raised in Quito, as well as attended school there in the "American School of Quito", where she acquired an interest in the natural sciences. She attributes this to her preparedness for the rigor that the University of Rochester has to offer.</p>
 					</div>
-
-		</article>
-
 
 		</main>
 
