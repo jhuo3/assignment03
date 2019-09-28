@@ -16,7 +16,9 @@
 		<section class="section">
 			<h2>Topics of Similarity</h2>
 			<p>The aforementioned students are all declared Digital Media Studies Majors, and all go about discussing their early lives, interests, and why it is that they are a DMS major.</p>
+			<h2>Home</h2>
 		</section>
+
 
 		<!-- Possibility of adding aside -->
 		<nav class="menu">
@@ -37,91 +39,64 @@
 			</a> -->
 
 
-			<h2>Home</h2>
-
-
-			<article class= "article">
-				<div class="box a">
+				<section>
 						<img src = "images/alex.jpg", alt="Alex" class="image">
 									<a href="/alex.jpg">
 											<!-- <div class="text">Alex's interests</div> -->
 									</a>
-				</div>
+				</section>
 
 
-				<div class="box b">
+				<section  class="list">
 											<!-- Section could be the menu in the first page for each
 											student & the content on other pages
 												-->
-						<nav class="article-sub">
-
 							<ul>
 								<li><a href="#">Alex's earlier life</a></li>
 								<li><a href="#">Alex's interests</a></li>
 								<li><a href="#">Alex in DMS</a></li>
 							</ul>
 
-						</nav>
-				</div>
+				</section>
 
-
-
-
-				<div class="box c">
+				<section>
 						<img src = "images/jennifer.jpg", alt="Jennifer" class="image">
-							<div class = "middle">
 									<a href="/alex.jpg">
 											<!-- <div class="text">Jennifer's interests</div> -->
 									</a>
-							</div>
-				</div>
+				</section>
 
-				<div class="box d">
-					<nav class="#">
-
+				<section  class="list">
 						<ul>
-							<li><a href="#">Home</a></li>
 							<li><a href="#">Jennifer's Earlier Life</a></li>
 							<li><a href="#">Jennifer's Interests</a></li>
 							<li><a href="#">Jennifer in DMS</a></li>
 						</ul>
 
-					</nav>
-				</div>
+				</section>
 
-				<div class="box e">
+				<section>
 						<img src = "images/maria.jpg", alt="Jennifer" class="image">
-							<div class = "middle">
 									<a href="/maria.jpg">
 											<!-- <div class="text">Jennifer's interests</div> -->
 									</a>
-							</div>
-				</div>
+				</section>
 
-				<div class="box f">
-					<nav class="#">
+				<section class="list">
 						<ul>
-							<li><a href="#">Home</a></li>
 							<li><a href="#">Maria's Earlier Life</a></li>
 							<li><a href="#">Maria's Interests</a></li>
 							<li><a href="#">Maria in DMS</a></li>
 						</ul>
-					</nav>
-
-
-
-
-
-		</article>
-
+				</section>
 
 		</main>
 
 		<nav class = "menu-inner">
 		<ul>
-			<li>Alex Chase</li>
-			<li>Jennifer Ngene</li>
-			<li>Maria Mancheno</li>
+			<li><a href="#">Alex Chase</a></li>
+			<li><a href="#">Jennifer Ngene</a></li>
+			<li><a href="#">Maria Mancheno</a></li>
 		</ul>
 	</nav>
 
