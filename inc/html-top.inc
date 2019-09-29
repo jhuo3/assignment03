@@ -10,7 +10,9 @@
 	<body class = "container">
 
 		<header>
-			<h1 class="homeh1" style = "font-size: 1.2em; left: -65px; font-size: 42px;" > We are DMS</h1>
+			<a href="index.php">
+				<h1 class="homeh1" style = "font-size: 1.2em; left: -65px; font-size: 42px;" > We are DMS</h1>
+			</a>
 		</header>
 
 		<section class="section">
