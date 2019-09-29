@@ -1,4 +1,4 @@
-<nav class="menu">
+<nav class="menu-inner">
 	<ul>
 		<li><a href="index.php">Home</a></li>
 		<li><a href="why-dms.php">Why DMS?</a></li>
