@@ -16,12 +16,9 @@
 		<section class="section">
 			<h2>Topics of Similarity</h2>
 			<p>The aforementioned students are all declared Digital Media Studies Majors, and all go about discussing their early lives, interests, and why it is that they are a DMS major.</p>
-			<h2>Home</h2>
 		</section>
 
-
-		<!-- Possibility of adding aside -->
-		<nav class="menu">
+		<nav class="menu-inner">
 
 			<ul>
 				<li><a href="index.php">Home</a></li>
@@ -31,6 +28,14 @@
 			</ul>
 
 		</nav>
+
+		<section>
+			<h2>Home</h2>
+		</section>
+
+
+		<!-- Possibility of adding aside -->
+
 
 		<main>
 
@@ -52,9 +57,9 @@
 											student & the content on other pages
 												-->
 							<ul>
-								<li><a href="#">Alex's earlier life</a></li>
-								<li><a href="#">Alex's interests</a></li>
-								<li><a href="#">Alex in DMS</a></li>
+								<li><a href="earlier-life.php#alex-life">Alex's earlier life</a></li>
+								<li><a href="interests.php#alex-interests">Alex's interests</a></li>
+								<li><a href="why-dms.php#alex-dms">Alex in DMS</a></li>
 							</ul>
 
 				</section>
@@ -68,9 +73,9 @@
 
 				<section  class="list">
 						<ul>
-							<li><a href="#">Jennifer's Earlier Life</a></li>
-							<li><a href="#">Jennifer's Interests</a></li>
-							<li><a href="#">Jennifer in DMS</a></li>
+							<li><a href="earlier-life.php#jennifer-life">Jennifer's Earlier Life</a></li>
+							<li><a href="interests.php#jennifer-interests">Jennifer's Interests</a></li>
+							<li><a href="why-dms.php#jennifer-dms">Jennifer in DMS</a></li>
 						</ul>
 
 				</section>
@@ -84,21 +89,14 @@
 
 				<section class="list">
 						<ul>
-							<li><a href="#">Maria's Earlier Life</a></li>
-							<li><a href="#">Maria's Interests</a></li>
-							<li><a href="#">Maria in DMS</a></li>
+							<li><a href="earlier-life.php#maria-life">Maria's Earlier Life</a></li>
+							<li><a href="interests.php#maria-interests">Maria's Interests</a></li>
+							<li><a href="why-dms.php#maria-dms">Maria in DMS</a></li>
 						</ul>
 				</section>
 
 		</main>
 
-		<nav class = "menu-inner">
-		<ul>
-			<li><a href="#">Alex Chase</a></li>
-			<li><a href="#">Jennifer Ngene</a></li>
-			<li><a href="#">Maria Mancheno</a></li>
-		</ul>
-	</nav>
 
 		<footer>CSC174: Advanced Front-End Web Design and Development</footer>
 
