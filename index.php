@@ -3,7 +3,7 @@
 
 	<head>
 		<meta charset="utf-8">
-		<title>Team Havana | Assignment 03: IA</title>
+		<title>Team Havana | Assignment 3: Information Architecture</title>
 		<link rel="stylesheet" href ="css/styles.css">
 	</head>
 
@@ -18,16 +18,9 @@
 			<p>The aforementioned students are all declared Digital Media Studies Majors, and all go about discussing their early lives, interests, and why it is that they are a DMS major.</p>
 		</section>
 
-		<nav class="menu-inner">
 
-			<ul>
-				<li><a href="index.php">Home</a></li>
-				<li><a href="earlier-life.php">Earlier Life</a></li>
-				<li><a href="interests.php">Interests</a></li>
-				<li><a href="why-dms.php">Why DMS</a></li>
-			</ul>
-
-		</nav>
+		<!-- Possibility of adding aside -->
+<?php include "inc/main-nav.inc"; ?>
 
 		<section>
 			<h2>Home</h2>
@@ -43,12 +36,11 @@
 				<h1 class="homeh1" style = "font-size: 1.2em; left: -65px; font-size: 42px;" > Welcome to our page!</h1>
 			</a> -->
 
-
 				<section>
-						<img src = "images/alex.jpg", alt="Alex" class="image">
-									<a href="/alex.jpg">
-											<!-- <div class="text">Alex's interests</div> -->
-									</a>
+					<img src = "images/alex.jpg", alt="Alex" class="image">
+						<a href="/alex.jpg">
+							<!-- <div class="text">Alex's interests</div> -->
+						</a>
 				</section>
 
 
@@ -65,10 +57,10 @@
 				</section>
 
 				<section>
-						<img src = "images/jennifer.jpg", alt="Jennifer" class="image">
-									<a href="/alex.jpg">
-											<!-- <div class="text">Jennifer's interests</div> -->
-									</a>
+					<img src = "images/jennifer.jpg", alt="Jennifer" class="image">
+						<a href="/jennifer.jpg">
+							<!-- <div class="text">Jennifer's interests</div> -->
+						</a>
 				</section>
 
 				<section  class="list">
@@ -81,10 +73,10 @@
 				</section>
 
 				<section>
-						<img src = "images/maria.jpg", alt="Jennifer" class="image">
-									<a href="/maria.jpg">
-											<!-- <div class="text">Jennifer's interests</div> -->
-									</a>
+					<img src = "images/maria.jpg", alt="Jennifer" class="image">
+						<a href="/maria.jpg">
+							<!-- <div class="text">Jennifer's interests</div> -->
+						</a>
 				</section>
 
 				<section class="list">

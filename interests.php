@@ -1,42 +1,9 @@
-<!doctype html>
-<html land="en">
+<?php 
+$currentPage = "Interests | Assignment 3: Information Architecture";
+include "inc/html-top.inc";
+?>
 
-	<head>
-		<meta charset="utf-8">
-		<title>Team Havana | Assignment 03: IA</title>
-		<link rel="stylesheet" href ="css/styles.css">
-	</head>
-
-	<body class = "container">
-
-		<header>
-			<h1 class="homeh1" style = "font-size: 1.2em; left: -65px; font-size: 42px;" > We are DMS</h1>
-		</header>
-
-
-				<section class="section">
-					<h2>Topics of Similarity</h2>
-					<p>The aforementioned students are all declared Digital Media Studies Majors, and all go about discussing their early lives, interests, and why it is that they are a DMS major.</p>
-				</section>
-
-				<nav class="menu-inner">
-
-					<ul>
-						<li><a href="index.php">Home</a></li>
-						<li><a href="earlier-life.php">Earlier Life</a></li>
-						<li><a href="interests.php">Interests</a></li>
-						<li><a href="why-dms.php">Why DMS</a></li>
-					</ul>
-
-				</nav>
-
-				<section>
-					<h2>Interests</h2>
-				</section>
-
-
-				<!-- Possibility of adding aside -->
-
+<?php include "inc/main-nav.inc"; ?>
 
 
 		<main>
@@ -70,7 +37,7 @@
 
 				<section class="box c" id = "jennifer-interests">
 						<img src = "images/jennifer.jpg", alt="Jennifer" class="image">
-									<a href="/alex.jpg">
+									<a href="/jennifer.jpg">
 											<!-- <section class="text">Jennifer's interests</section> -->
 									</a>
 				</section>
