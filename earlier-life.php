@@ -58,8 +58,4 @@ include "inc/html-top.inc";
 					</div>
 		</main>
 
-		<footer>CSC174: Advanced Front-End Web Design and Development</footer>
-
-	</body>
-
-</html>
+<?php include "inc/footer.inc"; ?>

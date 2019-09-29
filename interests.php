@@ -5,15 +5,15 @@ include "inc/html-top.inc";
 
 <?php include "inc/main-nav.inc"; ?>
 
+		<section>
+			<h2>Interests</h2>
+		</section>
 
 		<main>
 
 			<!--  <a href="alex.php">
 				<h1 class="homeh1" style = "font-size: 1.2em; left: -65px; font-size: 42px;" > Welcome to our page!</h1>
 			</a> -->
-
-
-
 
 				<section class="box a" id ="alex-interests">
 						<img src = "images/alex.jpg", alt="Alex" class="image">
@@ -62,9 +62,4 @@ include "inc/html-top.inc";
 
 		</main>
 
-
-		<footer>CSC174: Advanced Front-End Web Design and Development</footer>
-
-	</body>
-
-</html>
+<?php include "inc/footer.inc"; ?>

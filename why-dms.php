@@ -6,7 +6,7 @@ include "inc/html-top.inc";
 <?php include "inc/main-nav.inc"; ?>
 
 		<section>
-			<h2>Why DMS</h2>
+			<h2>Why DMS?</h2>
 		</section>
 		<main>
 
@@ -16,7 +16,6 @@ include "inc/html-top.inc";
 				<section class="box a" id ="alex-dms">
 						<img src = "images/alex.jpg", alt="Alex" class="image">
 							<a href="/alex.jpg">
-								<!-- <div class="text">Alex's interests</div> -->
 							</a>
 				</section>
 
@@ -30,13 +29,10 @@ include "inc/html-top.inc";
 				</section>
 
 
-
-
 				<section class="box c" id="jennifer-dms">
 						<img src = "images/jennifer.jpg", alt="Jennifer" class="image">
-									<a href="/alex.jpg">
-											<!-- <div class="text">Jennifer's interests</div> -->
-									</a>
+							<a href="/alex.jpg">
+							</a>
 				</section>
 
 				<section class="box d">
@@ -57,9 +53,5 @@ include "inc/html-top.inc";
 
 		</main>
 
+<?php include "inc/footer.inc"; ?>
 
-		<footer>CSC174: Advanced Front-End Web Design and Development</footer>
-
-	</body>
-
-</html>

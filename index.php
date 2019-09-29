@@ -1,34 +1,13 @@
-<!doctype html>
-<html land="en">
+<?php
+$currentPage = "Home | Assignment 3: Information Architecture";
+include "inc/html-top.inc";
+?>
 
-	<head>
-		<meta charset="utf-8">
-		<title>Team Havana | Assignment 3: Information Architecture</title>
-		<link rel="stylesheet" href ="css/styles.css">
-	</head>
-
-	<body class = "container">
-
-		<header>
-			<h1 class="homeh1" style = "font-size: 1.2em; left: -65px; font-size: 42px;" > We are DMS</h1>
-		</header>
-
-		<section class="section">
-			<h2>Topics of Similarity</h2>
-			<p>The aforementioned students are all declared Digital Media Studies Majors, and all go about discussing their early lives, interests, and why it is that they are a DMS major.</p>
-		</section>
-
-
-		<!-- Possibility of adding aside -->
 <?php include "inc/main-nav.inc"; ?>
 
 		<section>
 			<h2>Home</h2>
 		</section>
-
-
-		<!-- Possibility of adding aside -->
-
 
 		<main>
 
@@ -45,7 +24,7 @@
 
 
 				<section  class="list">
-											<!-- Section could be the menu in the first page for each
+					<!-- Section could be the menu in the first page for each
 											student & the content on other pages
 												-->
 							<ul>
@@ -89,9 +68,4 @@
 
 		</main>
 
-
-		<footer>CSC174: Advanced Front-End Web Design and Development</footer>
-
-	</body>
-
-</html>
+<?php include "inc/footer.inc"; ?>
