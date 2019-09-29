@@ -13,26 +13,30 @@
 			<h1 class="homeh1" style = "font-size: 1.2em; left: -65px; font-size: 42px;" > We are DMS</h1>
 		</header>
 
-		<section class="section">
-			<h2>Topics of Similarity</h2>
-			<p>The aforementioned students are all declared Digital Media Studies Majors, and all go about discussing their early lives, interests, and why it is that they are a DMS major.</p>
-		</section>
 
-		<!-- Possibility of adding aside -->
-		<nav class="menu">
+				<section class="section">
+					<h2>Topics of Similarity</h2>
+					<p>The aforementioned students are all declared Digital Media Studies Majors, and all go about discussing their early lives, interests, and why it is that they are a DMS major.</p>
+				</section>
 
-			<ul>
-				<li><a href="index.php">Home</a></li>
-				<li><a href="earlier-life.php">Earlier Life</a></li>
-				<li><a href="interests.php">Interests</a></li>
-				<li><a href="why-dms.php">Why DMS</a></li>
-			</ul>
+				<nav class="menu-inner">
 
-		</nav>
+					<ul>
+						<li><a href="index.php">Home</a></li>
+						<li><a href="earlier-life.php">Earlier Life</a></li>
+						<li><a href="interests.php">Interests</a></li>
+						<li><a href="why-dms.php">Why DMS</a></li>
+					</ul>
 
-		<section>
-			<h2>Interests</h2>
-		</section>
+				</nav>
+
+				<section>
+					<h2>Interests</h2>
+				</section>
+
+
+				<!-- Possibility of adding aside -->
+
 
 
 		<main>
@@ -44,7 +48,7 @@
 
 
 
-				<section class="box a">
+				<section class="box a" id ="alex-interests">
 						<img src = "images/alex.jpg", alt="Alex" class="image">
 									<a href="/alex.jpg">
 											<!-- <section class="text">Alex's interests</section> -->
@@ -64,7 +68,7 @@
 
 
 
-				<section class="box c">
+				<section class="box c" id = "jennifer-interests">
 						<img src = "images/jennifer.jpg", alt="Jennifer" class="image">
 									<a href="/alex.jpg">
 											<!-- <section class="text">Jennifer's interests</section> -->
@@ -77,7 +81,7 @@
 
 				</section>
 
-				<section class="box e">
+				<section class="box e" id="maria-interests">
 						<img src = "images/maria.jpg", alt="Jennifer" class="image">
 									<a href="/maria.jpg">
 											<!-- <section class="text">Jennifer's interests</section> -->
@@ -91,13 +95,6 @@
 
 		</main>
 
-		<nav class = "menu-inner">
-		<ul>
-			<li>Alex Chase</li>
-			<li>Jennifer Ngene</li>
-			<li>Maria Mancheno</li>
-		</ul>
-	</nav>
 
 		<footer>CSC174: Advanced Front-End Web Design and Development</footer>
 
