@@ -41,9 +41,6 @@ h1 + p {
 
 }
 
-/*p { margin-top: 165px; } */
-
-
 
 a {
 
@@ -61,7 +58,6 @@ a {
 
 a:hover {
 	color: gray;
-	background-color: black;
 }
 
 
