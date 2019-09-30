@@ -120,19 +120,6 @@ main {
 }
 
 
-.list ul  {
-	margin-top: 40px;
-	margin-bottom: 5px;
-}
-
-
-.list li{
-	margin-top: 10px;
-	margin-bottom: 5px;
-}
-
-
-
 @media ( max-width: 375px ) {
 	footer { margin-bottom: 15px; }
 }
