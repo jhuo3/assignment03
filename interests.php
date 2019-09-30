@@ -1,4 +1,4 @@
-<?php 
+<?php
 $currentPage = "Interests | Assignment 3: Information Architecture";
 include "inc/html-top.inc";
 ?>
@@ -49,7 +49,7 @@ include "inc/html-top.inc";
 
 				<section class="box f">
 					<h3>Maria Mancheno</h3>
-						<p>Maria's interests primarily lie under the areas of athletics and music. Ever since she was young, Maria has been blaying the guitar since she was 9 years old and, after some earlier struggles, learned that the guitar really was the intrument for her. She is also a soccer player, presently participating as a member of UR's club soccer team. Finally, Maria is an avid reader, having read upwards of 25 books over the course of 2019.</p>
+						<p>Maria's interests primarily lie under the areas of athletics and music. Ever since she was young, Maria has been playing the guitar since she was 9 years old and, after some earlier struggles, learned that the guitar really was the intrument for her. She is also a soccer player, presently participating as a member of UR's club soccer team. Finally, Maria is an avid reader, having read upwards of 25 books over the course of 2019.</p>
 					</section>
 
 		</main>
