@@ -16,10 +16,8 @@ include "inc/html-top.inc";
 			</a> -->
 
 				<section>
-					<img src = "images/alex.jpg", alt="Alex" class="image">
-						<a href="/alex.jpg">
+					<img src = "images/alex.jpg" alt="Alex" class="image">
 							<!-- <div class="text">Alex's interests</div> -->
-						</a>
 				</section>
 
 
@@ -32,10 +30,8 @@ include "inc/html-top.inc";
 				</section>
 
 				<section>
-					<img src = "images/jennifer.jpg", alt="Jennifer" class="image">
-						<a href="/jennifer.jpg">
+					<img src = "images/jennifer.jpg" alt="Jennifer" class="image">
 							<!-- <div class="text">Jennifer's interests</div> -->
-						</a>
 				</section>
 
 				<section  class="list">
@@ -44,10 +40,8 @@ include "inc/html-top.inc";
 				</section>
 
 				<section>
-					<img src = "images/maria.jpg", alt="Jennifer" class="image">
-						<a href="/maria.jpg">
+					<img src = "images/maria.jpg" alt="Maria" class="image">
 							<!-- <div class="text">Jennifer's interests</div> -->
-						</a>
 				</section>
 
 				<section class="list">

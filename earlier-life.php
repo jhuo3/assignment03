@@ -16,10 +16,8 @@ include "inc/html-top.inc";
 
 
 				<div class="box a" id="alex-life">
-						<img src = "images/alex.jpg", alt="Alex" class="image">
-									<a href="/alex.jpg">
+						<img src = "images/alex.jpg" alt="Alex" class="image">
 											<!-- <div class="text">Alex's interests</div> -->
-									</a>
 				</div>
 
 
@@ -31,13 +29,9 @@ include "inc/html-top.inc";
 				</div>
 
 
-
-
 				<div class="box c" id = "jennifer-life">
-						<img src = "images/jennifer.jpg", alt="Jennifer" class="image">
-									<a href="/alex.jpg">
+						<img src = "images/jennifer.jpg" alt="Jennifer" class="image">
 											<!-- <div class="text">Jennifer's interests</div> -->
-									</a>
 				</div>
 
 				<div class="box d">
@@ -46,10 +40,8 @@ include "inc/html-top.inc";
 				</div>
 
 				<div class="box e" id="maria-life">
-						<img src = "images/maria.jpg", alt="Jennifer" class="image">
-									<a href="/maria.jpg">
+						<img src = "images/maria.jpg" alt="Maria" class="image">
 											<!-- <div class="text">Jennifer's interests</div> -->
-									</a>
 				</div>
 
 				<div class="box f">

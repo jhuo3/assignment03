@@ -14,9 +14,8 @@ include "inc/html-top.inc";
 				<h1 class="homeh1" style = "font-size: 1.2em; left: -65px; font-size: 42px;" > Welcome to our page!</h1>
 			</a> -->
 				<section class="box a" id ="alex-dms">
-						<img src = "images/alex.jpg", alt="Alex" class="image">
-							<a href="/alex.jpg">
-							</a>
+						<img src = "images/alex.jpg" alt="Alex" class="image">
+
 				</section>
 
 
@@ -30,9 +29,7 @@ include "inc/html-top.inc";
 
 
 				<section class="box c" id="jennifer-dms">
-						<img src = "images/jennifer.jpg", alt="Jennifer" class="image">
-							<a href="/alex.jpg">
-							</a>
+						<img src = "images/jennifer.jpg" alt="Jennifer" class="image">
 				</section>
 
 				<section class="box d">
@@ -41,9 +38,8 @@ include "inc/html-top.inc";
 				</section>
 
 				<section class="box e" id="maria-dms">
-						<img src = "images/maria.jpg", alt="Jennifer" class="image">
-							<a href="/maria.jpg">
-							</a>
+						<img src = "images/maria.jpg" alt="Jennifer" class="image">
+
 				</section>
 
 				<section class="box f">
