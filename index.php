@@ -27,11 +27,7 @@ include "inc/html-top.inc";
 					<!-- Section could be the menu in the first page for each
 											student & the content on other pages
 												-->
-							<ul>
-								<li><a href="earlier-life.php#alex-life">Alex's earlier life</a></li>
-								<li><a href="interests.php#alex-interests">Alex's interests</a></li>
-								<li><a href="why-dms.php#alex-dms">Alex in DMS</a></li>
-							</ul>
+						<p>This is Alex Chase and he is a Junior double majoring in Digital Media Studies and Political Science at the University of Rochester.</p>	
 
 				</section>
 
@@ -43,11 +39,7 @@ include "inc/html-top.inc";
 				</section>
 
 				<section  class="list">
-						<ul>
-							<li><a href="earlier-life.php#jennifer-life">Jennifer's Earlier Life</a></li>
-							<li><a href="interests.php#jennifer-interests">Jennifer's Interests</a></li>
-							<li><a href="why-dms.php#jennifer-dms">Jennifer in DMS</a></li>
-						</ul>
+						<p>This is Jennifer Ngene and she is a Junior majoring in Digital Media Studies. She has shared her very interesting childhood experiences.</p>	
 
 				</section>
 
@@ -59,11 +51,7 @@ include "inc/html-top.inc";
 				</section>
 
 				<section class="list">
-						<ul>
-							<li><a href="earlier-life.php#maria-life">Maria's Earlier Life</a></li>
-							<li><a href="interests.php#maria-interests">Maria's Interests</a></li>
-							<li><a href="why-dms.php#maria-dms">Maria in DMS</a></li>
-						</ul>
+						<p>This is Maria  Mancheno and she is a Senior majoring in Digital Media Studies and minoring in Mathematics. She has shared her high school life and variety of hobbies.</p>	
 				</section>
 
 		</main>
