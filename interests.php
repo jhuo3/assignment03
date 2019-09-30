@@ -57,7 +57,7 @@ include "inc/html-top.inc";
 
 				<section class="box f">
 					<h3>Maria Mancheno</h3>
-						<p>Maria Mancheno is from Quito, Equador, and is 21 years of age. She was born and raised in Quito, as well as attended school there in the "American School of Quito", where she acquired an interest in the natural sciences. She attributes this to her preparedness for the rigor that the University of Rochester has to offer.</p>
+						<p>Maria's interests primarily lie under the areas of athletics and music. Ever since she was young, Maria has been blaying the guitar since she was 9 years old and, after some earlier struggles, learned that the guitar really was the intrument for her. She is also a soccer player, presently participating as a member of UR's club soccer team. Finally, Maria is an avid reader, having read upwards of 25 books over the course of 2019.</p>
 					</section>
 
 		</main>
