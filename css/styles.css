@@ -1,8 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Lato|Open+Sans&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Lora|Permanent+Marker&display=swap');
-{ border: 1px solid hotpink; }    /* For creating pink lines
 
-*/
 
 body {
 	font-family: 'Lato', sans-serif;
@@ -82,10 +80,9 @@ ul {
 	grid-template-columns: 2fr 1fr;
 }
 
-*/
 
-@media ( max-width: 375px ) {
-	.container { display: block; }
+@media (max-width: 375px) {
+	.container {display: block;}
 }
 
 
